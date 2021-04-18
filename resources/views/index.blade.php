@@ -21,7 +21,7 @@
             <h5 class="card-tittle">
                 <div class="d-flex justify-content-between">
                     <div>List</div>
-                    <p> Your Quota Remaining {{ 10-count($urls) }}/10</p>
+                    <p> Your Quota Remaining {{ 20-count($urls) }}/20</p>
                     <div>
                         <a href="/new" class="btn btn-primary">create</a>
                     </div>
